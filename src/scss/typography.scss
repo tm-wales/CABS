@@ -1,0 +1,111 @@
+h1,.h1 {
+    font-size: 8rem;
+    font-weight: 700;
+
+    &.primary {
+        text-align: left;
+        color: $color-white;
+        margin: 0 1rem;
+
+        @include media('1000') {
+            font-size: 6rem;
+            text-align: center;
+        }
+        @include media('500') {
+            font-size: 4rem;
+            text-align: center;
+        }
+    }
+    &.secondary {
+        text-align: center;
+        color: $color-primary-light;
+
+        @include media ('1000') {
+            font-size: 6rem;
+        }
+
+        @include media ('700') {
+            font-size: 4rem;
+        }
+    }
+}
+
+h2,.h2 {
+    &.primary {
+        font-size: 1.3rem;
+        text-transform: uppercase;
+        letter-spacing: 0.2rem;
+        color: $color-white;
+        display:inline-block;
+
+        @include media ('1000') {
+            text-align: center;
+            display:block;
+            margin: 0 1rem;
+            margin-top: 2rem;
+
+            &:after {
+                content: '';
+                display:inline-block;
+                vertical-align: middle;
+                width: 1.5rem;
+                margin-left: 1.125rem;
+                border-bottom: 1px solid $color-white;
+                margin-right: .5rem;
+                transition: .3s width;
+            }
+        }
+
+        &:before {
+            content: '';
+            display:inline-block;
+            vertical-align: middle;
+            width: 1.5rem;
+            margin-right: 1.125rem;
+            border-bottom: 1px solid $color-white;
+            margin-left: .5rem;
+            transition: .3s width;
+        }
+
+        @include media ('1000') {
+            text-align: center;
+        }
+    }
+
+    &.secondary {
+        max-width: 70rem;
+        margin: 1rem auto;
+        padding: 0 2rem;
+        text-align: center;
+        color: $color-text-dark;
+        font-weight: 300;
+        font-size: 1.8rem;
+    }
+}
+
+.closing {
+    padding: 5rem;
+    text-align: center;
+    
+    @include media ('700') {
+        padding: 5rem 3rem;
+    }
+
+    &__title {
+        font-size: 5rem;
+        color: $color-primary-light;
+
+        @include media ('700') {
+            font-size: 4rem;
+        }
+    }
+
+    &__statement {
+        max-width: 70rem;
+        margin: 0 auto;
+        text-align: center;
+        color: $color-text-dark;
+        font-weight: 300;
+        font-size: 1.6rem;
+    }
+}

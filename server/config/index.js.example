@@ -1,0 +1,13 @@
+const config = {
+    email: {
+        service: 'Outlook365',
+        auth: {
+            user: 'user@office365.com',
+            password: 'password'
+        }
+    }
+}
+
+exports.get = function get () {
+    return config
+}

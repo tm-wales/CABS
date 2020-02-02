@@ -1,0 +1,2237 @@
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /about 404 239 - 4.490 ms
+[32minfo[39m: GET /about 404 239 - 0.562 ms
+[32minfo[39m: GET / 200 1279 - 3.525 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 304 - - 2.532 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 2.675 ms
+[32minfo[39m: GET /ohno.jpg 200 282727 - 4.348 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 0.361 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 304 - - 0.505 ms
+[32minfo[39m: GET /static/logo_white.png 304 - - 0.426 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.554 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.187 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.494 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.696 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.967 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.155 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.374 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.582 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.480 ms
+[32minfo[39m: GET /about 404 239 - 0.472 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 304 - - 3.852 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 304 - - 1.582 ms
+[32minfo[39m: GET /ohno.jpg 304 - - 1.167 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.609 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 304 - - 0.376 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 0.515 ms
+[32minfo[39m: GET /static/logo_white.png 304 - - 0.193 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.914 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 1.127 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 1.243 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 1.751 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 2.075 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.535 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.660 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.757 ms
+[32minfo[39m: GET /about 500 1182 - 111.396 ms
+[32minfo[39m: GET /about 500 1182 - 0.650 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /about 500 1374 - 4.881 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /about 500 1389 - 52.930 ms
+[32minfo[39m: GET / 500 1389 - 1.015 ms
+[32minfo[39m: GET / 500 1389 - 0.784 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 500 1389 - 28.149 ms
+[32minfo[39m: GET / 500 1389 - 0.782 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 500 1389 - 18.835 ms
+[32minfo[39m: GET / 500 1389 - 0.764 ms
+[32minfo[39m: GET / 500 1389 - 0.594 ms
+[32minfo[39m: GET / 500 1389 - 0.683 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 500 1390 - 30.534 ms
+[32minfo[39m: GET / 500 1390 - 0.773 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 500 1395 - 7.508 ms
+[32minfo[39m: GET / 500 1395 - 0.706 ms
+[32minfo[39m: GET / 500 1395 - 0.626 ms
+[32minfo[39m: GET / 500 1395 - 0.470 ms
+[32minfo[39m: GET / 500 1395 - 0.506 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 200 1279 - 70.858 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 304 - - 2.744 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 2.921 ms
+[32minfo[39m: GET /ohno.jpg 200 282727 - 3.967 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 304 - - 0.422 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 0.559 ms
+[32minfo[39m: GET /static/logo_white.png 304 - - 0.878 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.984 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 1.108 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 1.233 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 1.670 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.703 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.887 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.859 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.889 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 1.185 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.290 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.307 ms
+[32minfo[39m: GET /about 200 1259 - 1.157 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 304 - - 4.971 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 5.202 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 5.037 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 304 - - 5.182 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.241 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.914 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 1.042 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 1.158 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 1.255 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.194 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.181 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.552 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.591 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.399 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.272 ms
+[32minfo[39m: GET /our-work/ 200 1259 - 0.988 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 304 - - 3.714 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 3.651 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 3.573 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 304 - - 3.656 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.214 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 1.311 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 2.598 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 2.717 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 2.665 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 2.040 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 2.342 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 1.149 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.262 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.503 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 1.896 ms
+[32minfo[39m: GET /news/ 200 1259 - 0.626 ms
+[32minfo[39m: GET /static/logo_white.png 304 - - 0.305 ms
+[32minfo[39m: GET /about 304 - - 0.854 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 304 - - 2.272 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 2.457 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 2.410 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 304 - - 2.780 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.297 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 1.192 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 1.200 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 1.265 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 1.321 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 25.969 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 1.945 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 2.880 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 4.175 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.997 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.346 ms
+[32minfo[39m: GET /about 304 - - 2.057 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 3.201 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 3.350 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 304 - - 3.163 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 304 - - 3.227 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.230 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 1.052 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 1.038 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 1.659 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 1.277 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 1.773 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 1.440 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.212 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.358 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 1.021 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.239 ms
+[32minfo[39m: GET /about 304 - - 1.260 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 2.520 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 304 - - 4.721 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 304 - - 5.246 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 5.213 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.235 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.491 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.963 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.676 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.432 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.668 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.738 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.836 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.228 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.663 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.262 ms
+[32minfo[39m: GET /contact-us 200 1259 - 0.635 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 304 - - 0.411 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.562 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 0.444 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 304 - - 0.561 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.281 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 1.548 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 1.759 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 1.962 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 1.933 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 2.247 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.957 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.600 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.753 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 7.356 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.252 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 500 1175 - 5.995 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 14.403 ms
+[32minfo[39m: GET /static/css/app.5c5c6941588678e4cc01f6a320e81a00.css 200 39190 - 4.882 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 6.167 ms
+[32minfo[39m: GET /static/js/app.65f9e65b0c68d25dbd6d.js 200 121275 - 2.177 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 200 378654 - 3.935 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 1.623 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.794 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 2.306 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 2.431 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 2.500 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 2.479 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.421 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.894 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 2.198 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.707 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.755 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 0.785 ms
+[32minfo[39m: GET /static/logo_white.png 304 - - 55.358 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 200 1251 - 13.381 ms
+[32minfo[39m: GET /static/css/app.416c09c09e3d505d88fe210aac02e11d.css 200 50771 - 7.308 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 7.514 ms
+[32minfo[39m: GET /static/js/app.e68c123754623aab23cf.js 200 121528 - 8.120 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 200 378654 - 6.145 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 0.837 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 1.622 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.845 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 2.113 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 2.420 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.853 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 1.111 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 0.803 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.153 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.636 ms
+[32minfo[39m: GET /about 200 1251 - 1.288 ms
+[32minfo[39m: GET /static/css/app.416c09c09e3d505d88fe210aac02e11d.css 304 - - 1.374 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 1.369 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 3.096 ms
+[32minfo[39m: GET /static/js/app.e68c123754623aab23cf.js 304 - - 1.872 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.281 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 2.818 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 3.211 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 3.259 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 4.171 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 4.374 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 3.035 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 1.440 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 1.524 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.571 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 2.528 ms
+[31merror[39m: uncaughtException: Cannot find module 'nodemailer'
+Error: Cannot find module 'nodemailer'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:581:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:507:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (/Users/papa/Documents/Techmeleon/CABS/server/utils/nodemailer.js:1:80)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3) {"error":{"code":"MODULE_NOT_FOUND"},"stack":"Error: Cannot find module 'nodemailer'\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:581:15)\n    at Function.Module._load (internal/modules/cjs/loader.js:507:25)\n    at Module.require (internal/modules/cjs/loader.js:637:17)\n    at require (internal/modules/cjs/helpers.js:20:18)\n    at Object.<anonymous> (/Users/papa/Documents/Techmeleon/CABS/server/utils/nodemailer.js:1:80)\n    at Module._compile (internal/modules/cjs/loader.js:689:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)\n    at Module.load (internal/modules/cjs/loader.js:599:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:530:3)","exception":true,"date":"Thu Jan 24 2019 15:43:14 GMT+0000 (Greenwich Mean Time)","process":{"pid":9532,"uid":502,"gid":20,"cwd":"/Users/papa/Documents/Techmeleon/CABS","execPath":"/Users/papa/.npm-packages/lib/node_modules/node/bin/node","version":"v10.11.0","argv":["/Users/papa/.npm-packages/lib/node_modules/node/bin/node","/Users/papa/Documents/Techmeleon/CABS/app.js"],"memoryUsage":{"rss":33697792,"heapTotal":20168704,"heapUsed":12222136,"external":366733}},"os":{"loadavg":[1.92431640625,2.10302734375,2.076171875],"uptime":112088},"trace":[{"column":15,"file":"internal/modules/cjs/loader.js","function":"Module._resolveFilename","line":581,"method":"_resolveFilename","native":false},{"column":25,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":507,"method":"_load","native":false},{"column":17,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":637,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":20,"method":null,"native":false},{"column":80,"file":"/Users/papa/Documents/Techmeleon/CABS/server/utils/nodemailer.js","function":null,"line":1,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":689,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":700,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":599,"method":"load","native":false},{"column":12,"file":"internal/modules/cjs/loader.js","function":"tryModuleLoad","line":538,"method":null,"native":false},{"column":3,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":530,"method":"_load","native":false}]}
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 200 1251 - 7.369 ms
+[32minfo[39m: GET /static/css/app.4bd3848b40d3884fb329d302faba308b.css 200 51302 - 2.698 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 3.347 ms
+[32minfo[39m: GET /static/js/app.9ed5914300e5657c3549.js 200 120526 - 2.804 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 200 378654 - 3.479 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/2.jpg 200 215723 - 3.213 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/3.jpg 200 300932 - 3.487 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 200 1141030 - 1.241 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/2.jpg 200 189049 - 1.151 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/1.jpg 200 32504 - 1.097 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(2).jpeg 200 88899 - 0.969 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(3).jpeg 200 131514 - 0.988 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 200 1328344 - 1.161 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 3.711 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/3.jpg 200 115073 - 2.944 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/1.jpg 200 385997 - 3.859 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 200 145305 - 3.337 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 200 168524 - 1.891 ms
+[32minfo[39m: GET /static/images/main.jpeg 200 3027632 - 0.866 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/2.jpg 200 121558 - 3.542 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/1.jpg 200 82444 - 1.892 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 200 3752153 - 1.120 ms
+[32minfo[39m: GET /static/news/1.png 200 124200 - 1.050 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 200 4436255 - 1.163 ms
+[32minfo[39m: GET /static/news/3.jpg 200 36416 - 1.875 ms
+[32minfo[39m: GET /static/news/2.png 200 384542 - 2.616 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 200 4555 - 2.537 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 200 3606 - 2.220 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 200 2060 - 2.928 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 200 2541 - 6.287 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 200 2718 - 7.080 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 200 2360 - 7.093 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 2.147 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.890 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.215 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 1.174 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 0.932 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 0.804 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.717 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.507 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 200 7405933 - 1.806 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 1.483 ms
+[32minfo[39m: POST /contact-us - - - - ms
+[32minfo[39m: POST /contact-us - - - - ms
+[32minfo[39m: GET /static/css/app.4bd3848b40d3884fb329d302faba308b.css 304 - - 0.819 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.943 ms
+[32minfo[39m: GET /static/js/app.9ed5914300e5657c3549.js.map 200 402973 - 0.646 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 200 1867229 - 1.511 ms
+[32minfo[39m: GET /static/css/app.4bd3848b40d3884fb329d302faba308b.css.map 200 355929 - 1.412 ms
+[32minfo[39m: POST /contact-us - - - - ms
+[32minfo[39m: POST /contact-us - - - - ms
+[32minfo[39m: POST /contact-us - - - - ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 200 1251 - 7.494 ms
+[32minfo[39m: GET /static/css/app.1f833a7b9ff2131ff822264435cdfd2a.css 200 51355 - 16.733 ms
+[32minfo[39m: GET /static/js/app.90f923a57a28b1dee41f.js 200 122127 - 17.275 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 3.005 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 200 378654 - 5.143 ms
+[32minfo[39m: GET /static/css/app.1f833a7b9ff2131ff822264435cdfd2a.css.map 200 356037 - 0.521 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.447 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/3.jpg 200 190276 - 0.980 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/2.jpg 200 146754 - 0.936 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/1.jpg 200 32504 - 1.998 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/2.jpg 200 189049 - 1.676 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(2).jpeg 200 88899 - 2.078 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 200 1141030 - 1.124 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(3).jpeg 200 131514 - 1.575 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 200 168524 - 0.488 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 200 145305 - 0.400 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 200 1328344 - 0.546 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 3.334 ms
+[32minfo[39m: GET /static/js/app.90f923a57a28b1dee41f.js.map 200 396314 - 7.709 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/3.jpg 200 115073 - 1.402 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 200 1867229 - 4.667 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/1.jpg 200 385997 - 8.956 ms
+[32minfo[39m: GET /static/images/main.jpeg 200 3027632 - 0.991 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/2.jpg 200 121558 - 5.456 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/1.jpg 200 82444 - 1.734 ms
+[32minfo[39m: GET /static/news/1.png 200 124200 - 0.850 ms
+[32minfo[39m: GET /static/news/2.png 200 384542 - 0.559 ms
+[32minfo[39m: GET /static/news/3.jpg 200 36416 - 1.757 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 200 3606 - 0.772 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 200 4555 - 1.414 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 200 2060 - 0.688 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 200 2541 - 0.645 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 200 2718 - 0.828 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 200 2360 - 0.416 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.856 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 0.661 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 0.570 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 0.753 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 0.493 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 0.347 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 0.361 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 0.472 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 200 3752153 - 1.898 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 200 4436255 - 1.543 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 200 7405933 - 1.176 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.524 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 40.233 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 200 1251 - 4.998 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 200 1251 - 5.427 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 6.479 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 200 378654 - 9.313 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.634 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 200 1867229 - 0.551 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.770 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.500 ms
+[32minfo[39m: GET / 200 1251 - 0.655 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 6.551 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 6.797 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css 200 51302 - 13.039 ms
+[32minfo[39m: GET /static/js/app.29f2d0e39225c49e7406.js 200 122126 - 10.231 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.231 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 1.400 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.628 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.503 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 2.614 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 2.106 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 2.211 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 0.788 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 2.795 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/2.jpg 200 215723 - 0.439 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/3.jpg 200 300932 - 0.421 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/2.jpg 200 121558 - 0.347 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/1.jpg 200 82444 - 0.434 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/2.jpg 200 189049 - 0.376 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/1.jpg 200 32504 - 0.370 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/2.jpg 200 146754 - 0.455 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/3.jpg 200 190276 - 3.092 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 200 1141030 - 0.738 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 200 1328344 - 0.561 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 0.560 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.199 ms
+[32minfo[39m: GET /static/js/app.29f2d0e39225c49e7406.js.map 200 396214 - 0.981 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 200 145305 - 0.674 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css.map 200 355887 - 1.014 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 200 168524 - 0.491 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/3.jpg 200 115073 - 0.680 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/1.jpg 200 385997 - 0.671 ms
+[32minfo[39m: GET /static/news/1.png 200 124200 - 0.364 ms
+[32minfo[39m: GET /static/news/2.png 200 384542 - 1.601 ms
+[32minfo[39m: GET /static/news/3.jpg 200 36416 - 0.499 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 200 4555 - 0.352 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 200 3606 - 0.346 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 200 2060 - 0.368 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 200 2541 - 0.415 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 200 2718 - 0.336 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 200 2360 - 0.506 ms
+[32minfo[39m: GET /static/images/main.jpeg 200 3027632 - 0.428 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 200 4436255 - 0.719 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 200 3752153 - 0.534 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 200 7405933 - 0.623 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.489 ms
+[32minfo[39m: GET /contact-us 304 - - 1.120 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 5.625 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 5.888 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 6.031 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 6.943 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.479 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.213 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.575 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.258 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 304 - - 18.662 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 4.009 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 4.982 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 5.390 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 5.545 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.419 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.249 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 2.123 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.301 ms
+[32minfo[39m: GET / 304 - - 0.535 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 2.959 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 3.133 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css 304 - - 2.565 ms
+[32minfo[39m: GET /static/js/app.29f2d0e39225c49e7406.js 304 - - 2.756 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.300 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css.map 304 - - 0.304 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/2.jpg 304 - - 0.622 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/3.jpg 304 - - 0.300 ms
+[32minfo[39m: GET /static/images/main.jpeg 304 - - 0.955 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 304 - - 0.705 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 304 - - 0.844 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 304 - - 0.291 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 304 - - 0.519 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 304 - - 1.079 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(2).jpeg 200 88899 - 0.572 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/2.jpg 304 - - 2.114 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(3).jpeg 200 131514 - 1.368 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/1.jpg 304 - - 0.273 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/2.jpg 304 - - 0.408 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/1.jpg 304 - - 0.572 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 304 - - 0.242 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 304 - - 0.220 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.245 ms
+[32minfo[39m: GET /static/js/app.29f2d0e39225c49e7406.js.map 304 - - 0.181 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/2.jpg 304 - - 0.406 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/3.jpg 304 - - 0.237 ms
+[32minfo[39m: GET /static/news/1.png 304 - - 0.200 ms
+[32minfo[39m: GET /static/news/2.png 304 - - 0.198 ms
+[32minfo[39m: GET /static/news/3.jpg 304 - - 0.304 ms
+[32minfo[39m: GET /static/logo_white.png 304 - - 0.214 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 304 - - 0.191 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 304 - - 0.365 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 304 - - 0.442 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 304 - - 0.582 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 304 - - 1.226 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 304 - - 1.444 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.485 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.638 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.429 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.599 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.208 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.190 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.200 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.232 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.254 ms
+[32minfo[39m: GET /static/images/about.jpg 200 566548 - 0.771 ms
+[32minfo[39m: GET /static/about/growth.jpeg 200 1384529 - 4.506 ms
+[32minfo[39m: GET /static/about/excellence.jpeg 200 3960754 - 4.357 ms
+[32minfo[39m: GET /static/about/begining.jpeg 200 6808028 - 3.556 ms
+[32minfo[39m: GET /static/about/future.jpeg 200 6698945 - 5.209 ms
+[32minfo[39m: GET /about 200 1251 - 2.184 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 1.566 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.767 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 1.871 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 2.336 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.234 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.215 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.565 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.223 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /about 304 - - 115.590 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 4.589 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 2.747 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 3.035 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 3.332 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.268 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.209 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 1.908 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.350 ms
+[32minfo[39m: GET /about 304 - - 0.536 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 5.415 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 5.583 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 5.683 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 6.078 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.268 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.251 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.540 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.262 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /about 304 - - 28.543 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 6.140 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 0.983 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 1.660 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 2.403 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.392 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.234 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 2.785 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.342 ms
+[32minfo[39m: GET /about 304 - - 0.497 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 5.349 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 5.582 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 5.716 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 6.801 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.263 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.233 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.520 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.226 ms
+[32minfo[39m: GET /about 304 - - 0.467 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 0.666 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.619 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 0.215 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 0.574 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.222 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.277 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.379 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.217 ms
+[32minfo[39m: GET /about 304 - - 0.483 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 1.180 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.239 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 0.414 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 0.973 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.264 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.231 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.309 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.266 ms
+[32minfo[39m: GET /about 304 - - 0.496 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 4.191 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 4.375 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 2.940 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 3.451 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.346 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.567 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.366 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.293 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /about 304 - - 25.474 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 5.358 ms
+[32minfo[39m: GET /static/css/app.e31d2a0e802739ff0adca081b59b6704.css 304 - - 3.278 ms
+[32minfo[39m: GET /static/js/app.d550608fed2ff7d3ffaa.js 304 - - 3.834 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 1.116 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.277 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.450 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 5.451 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.939 ms
+[32minfo[39m: GET /about 200 1251 - 0.806 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 4.189 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 4.411 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css 304 - - 1.338 ms
+[32minfo[39m: GET /static/js/app.29f2d0e39225c49e7406.js 304 - - 1.524 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.257 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css.map 304 - - 0.224 ms
+[32minfo[39m: GET /static/images/about.jpg 304 - - 0.235 ms
+[32minfo[39m: GET /static/about/begining.jpeg 304 - - 0.225 ms
+[32minfo[39m: GET /static/about/excellence.jpeg 304 - - 0.258 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.504 ms
+[32minfo[39m: GET /static/about/future.jpeg 304 - - 0.245 ms
+[32minfo[39m: GET /static/about/growth.jpeg 304 - - 0.385 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.274 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.280 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.191 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.199 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.204 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.187 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.220 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.188 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 2.642 ms
+[32minfo[39m: GET /static/js/app.29f2d0e39225c49e7406.js.map 304 - - 1.132 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.462 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.215 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css 304 - - 1.160 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 2.848 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.396 ms
+[32minfo[39m: GET /static/js/app.29f2d0e39225c49e7406.js.map 304 - - 0.553 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css.map 304 - - 0.204 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 89.364 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 17.161 ms
+[32minfo[39m: GET /static/js/app.29f2d0e39225c49e7406.js 304 - - 17.694 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css 304 - - 18.536 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js 304 - - 15.948 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.829 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.962 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 1.027 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.998 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.370 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.488 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.775 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.879 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.903 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.299 ms
+[32minfo[39m: GET /static/js/vendor.8905e14e71405974245d.js.map 304 - - 0.241 ms
+[32minfo[39m: GET /static/js/app.29f2d0e39225c49e7406.js.map 304 - - 0.867 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css.map 304 - - 0.725 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 2.301 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.449 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 15.958 ms
+[32minfo[39m: GET /static/js/app.a265b5bfc66078912e7e.js 200 122174 - 11.322 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 5.351 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css 200 51302 - 5.596 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 11.077 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.439 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css.map 200 355887 - 0.507 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.479 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.761 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.003 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 0.611 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 1.471 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 1.004 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 1.986 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 2.026 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.510 ms
+[32minfo[39m: GET /static/js/app.a265b5bfc66078912e7e.js.map 200 396329 - 0.304 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 0.339 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.586 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.329 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 38.607 ms
+[32minfo[39m: GET /static/js/app.00c14ab55b3dc3ba50d4.js 200 122180 - 13.016 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 3.496 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css 200 51302 - 3.525 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 3.988 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.535 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.521 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.383 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 0.904 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.251 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 1.700 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 1.931 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 0.519 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 0.331 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 0.479 ms
+[32minfo[39m: GET /static/js/app.00c14ab55b3dc3ba50d4.js.map 200 396386 - 0.617 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 0.529 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css.map 200 355887 - 2.596 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 1.581 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.316 ms
+[32minfo[39m: POST /contact-us - - - - ms
+[32minfo[39m: POST /contact-us - - - - ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 28.786 ms
+[32minfo[39m: GET /static/js/app.2fa7985467c277743450.js 200 122897 - 11.996 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 11.203 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css 200 51302 - 4.237 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 4.089 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.989 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css.map 200 355887 - 0.599 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.538 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.353 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 2.012 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.290 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 1.995 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 2.542 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 3.198 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.338 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.396 ms
+[32minfo[39m: GET /static/js/app.2fa7985467c277743450.js.map 200 398313 - 4.590 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 2.551 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.346 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.328 ms
+[32minfo[39m: POST /contact-us - - - - ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 304 - - 31.341 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css 304 - - 20.161 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 20.643 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 20.546 ms
+[32minfo[39m: GET /static/js/app.2fa7985467c277743450.js 304 - - 20.633 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.301 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 304 - - 0.254 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.216 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.386 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.531 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.180 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.373 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.515 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.194 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.183 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.216 ms
+[32minfo[39m: GET /static/js/app.2fa7985467c277743450.js.map 304 - - 0.466 ms
+[32minfo[39m: GET /static/css/app.2cbbc93389138f12e41b0427712d54cb.css.map 304 - - 0.278 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 7.297 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.260 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 630.979 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 32.945 ms
+[32minfo[39m: GET /static/css/app.d9ce3b746bd7bee056e263a7727799d2.css 200 51545 - 11.351 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 9.393 ms
+[32minfo[39m: GET /static/js/app.e7c4eeedf5ee2063a6a0.js 200 122797 - 12.321 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 5.372 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.442 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.474 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.343 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.161 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.689 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 2.129 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 0.674 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 0.899 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 2.695 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 0.896 ms
+[32minfo[39m: GET /static/js/app.e7c4eeedf5ee2063a6a0.js.map 200 398493 - 0.646 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 0.541 ms
+[32minfo[39m: GET /static/css/app.d9ce3b746bd7bee056e263a7727799d2.css.map 200 356307 - 2.823 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.371 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.326 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 548.722 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 28.082 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 7.367 ms
+[32minfo[39m: GET /static/js/app.9e73c78fdd96dd299394.js 200 122789 - 13.082 ms
+[32minfo[39m: GET /static/css/app.d9ce3b746bd7bee056e263a7727799d2.css 200 51545 - 7.712 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 7.321 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.519 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.414 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 1.291 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.619 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.757 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 0.990 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 1.375 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 1.480 ms
+[32minfo[39m: GET /static/css/app.d9ce3b746bd7bee056e263a7727799d2.css.map 200 356307 - 4.432 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 0.822 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 0.361 ms
+[32minfo[39m: GET /static/js/app.9e73c78fdd96dd299394.js.map 200 398485 - 1.123 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 6.248 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.426 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.396 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 605.475 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 80.370 ms
+[32minfo[39m: GET /static/css/app.2d62694de31a42e7520d86869f38fb25.css 200 52035 - 130.677 ms
+[32minfo[39m: GET /static/js/app.07a78770cc9149dc1295.js 200 122877 - 123.737 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 153.756 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 86.758 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.528 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.896 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 2.123 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 36.425 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 30.509 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 30.803 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 12.995 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 35.861 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 31.903 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.744 ms
+[32minfo[39m: GET /static/css/app.2d62694de31a42e7520d86869f38fb25.css.map 200 357727 - 42.499 ms
+[32minfo[39m: GET /static/js/app.07a78770cc9149dc1295.js.map 200 400036 - 14.391 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 83.420 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.720 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.623 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 689.233 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 63.101 ms
+[32minfo[39m: GET /static/css/app.11d7e294e14314df9d738bffad43b016.css 200 52330 - 5.971 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 6.786 ms
+[32minfo[39m: GET /static/js/app.f18beb54f784414fa7e2.js 200 122969 - 7.700 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 2.070 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.349 ms
+[32minfo[39m: GET /static/css/app.11d7e294e14314df9d738bffad43b016.css.map 200 358236 - 0.494 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.496 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 1.736 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.798 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 1.836 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.886 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 2.288 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 2.443 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.494 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.758 ms
+[32minfo[39m: GET /static/js/app.f18beb54f784414fa7e2.js.map 200 400983 - 2.258 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 5.544 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.334 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.370 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 575.092 ms
+[32minfo[39m: GET /contact-us 200 1251 - 1.182 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 8.966 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 9.181 ms
+[32minfo[39m: GET /static/css/app.11d7e294e14314df9d738bffad43b016.css 304 - - 10.696 ms
+[32minfo[39m: GET /static/js/app.f18beb54f784414fa7e2.js 304 - - 10.886 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.274 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 304 - - 0.196 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.238 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.229 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.216 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.246 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.360 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.796 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 1.271 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 1.454 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 1.632 ms
+[32minfo[39m: GET /static/css/app.11d7e294e14314df9d738bffad43b016.css.map 304 - - 0.253 ms
+[32minfo[39m: GET /static/js/app.f18beb54f784414fa7e2.js.map 304 - - 0.589 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.315 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.211 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 24.102 ms
+[32minfo[39m: GET /static/css/app.22b06b6960a2deef1f30570090916107.css 200 52303 - 14.138 ms
+[32minfo[39m: GET /static/js/app.60a6d0f8c85e8fafa24f.js 200 122967 - 15.091 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 7.583 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 3.458 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.547 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.663 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 2.000 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 2.530 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.793 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 3.087 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 4.534 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 3.696 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.640 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.213 ms
+[32minfo[39m: GET /static/js/app.60a6d0f8c85e8fafa24f.js.map 200 400878 - 3.210 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 2.779 ms
+[32minfo[39m: GET /static/css/app.22b06b6960a2deef1f30570090916107.css.map 200 358164 - 4.090 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.342 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.387 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 610.145 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 25.840 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 9.444 ms
+[32minfo[39m: GET /static/css/app.472cfa3bbd42843a9b9599a137155f47.css 200 52381 - 20.444 ms
+[32minfo[39m: GET /static/js/app.2550094c0ffec865a69f.js 200 123020 - 17.837 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 12.454 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.921 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.582 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.093 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 1.132 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 1.747 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.043 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 2.139 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 2.476 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 2.739 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 3.047 ms
+[32minfo[39m: GET /static/js/app.2550094c0ffec865a69f.js.map 200 401096 - 16.344 ms
+[32minfo[39m: GET /static/css/app.472cfa3bbd42843a9b9599a137155f47.css.map 200 358341 - 10.813 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 14.555 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.334 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.319 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 549.131 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 25.838 ms
+[32minfo[39m: GET /static/css/app.3d4495f401e26ae2e062b9f6e0fbb4ce.css 200 52385 - 11.197 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 10.980 ms
+[32minfo[39m: GET /static/js/app.af02d1a8e3b5a3e736f0.js 200 123020 - 10.911 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 11.303 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.624 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.393 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.599 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.965 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 1.678 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 2.840 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 3.646 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 3.029 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 2.341 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 2.621 ms
+[32minfo[39m: GET /static/js/app.af02d1a8e3b5a3e736f0.js.map 200 401109 - 1.993 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 2.010 ms
+[32minfo[39m: GET /static/css/app.3d4495f401e26ae2e062b9f6e0fbb4ce.css.map 200 358349 - 1.547 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.897 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 1.603 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 965.392 ms
+[32minfo[39m: GET /contact-us 200 1251 - 0.762 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.504 ms
+[32minfo[39m: GET /static/css/app.3d4495f401e26ae2e062b9f6e0fbb4ce.css 304 - - 0.548 ms
+[32minfo[39m: GET /static/js/app.af02d1a8e3b5a3e736f0.js 304 - - 0.825 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 1.810 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.216 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.200 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.373 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.580 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.251 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.548 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.232 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.205 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.648 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.742 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 304 - - 0.230 ms
+[32minfo[39m: GET /static/js/app.af02d1a8e3b5a3e736f0.js.map 304 - - 0.363 ms
+[32minfo[39m: GET /static/css/app.3d4495f401e26ae2e062b9f6e0fbb4ce.css.map 304 - - 2.148 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 1.385 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.268 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 304 - - 32.158 ms
+[32minfo[39m: GET /static/css/app.3d4495f401e26ae2e062b9f6e0fbb4ce.css 304 - - 1.783 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 2.072 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 2.136 ms
+[32minfo[39m: GET /static/js/app.af02d1a8e3b5a3e736f0.js 304 - - 2.238 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.254 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 304 - - 0.196 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.226 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.515 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.695 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.975 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.714 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 1.322 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 1.340 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.795 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.238 ms
+[32minfo[39m: GET /static/js/app.af02d1a8e3b5a3e736f0.js.map 304 - - 0.215 ms
+[32minfo[39m: GET /static/css/app.3d4495f401e26ae2e062b9f6e0fbb4ce.css.map 304 - - 0.431 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 2.006 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.383 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 544.757 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 35.939 ms
+[32minfo[39m: GET /static/css/app.84b500092685b8ce491344da0f11e12f.css 200 52398 - 17.487 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 16.247 ms
+[32minfo[39m: GET /static/js/app.197c78ec06d3c559f9a4.js 200 123114 - 17.952 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 5.919 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.548 ms
+[32minfo[39m: GET /static/css/app.84b500092685b8ce491344da0f11e12f.css.map 200 358404 - 0.436 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.639 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 2.419 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 3.461 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 3.763 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 4.012 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 3.893 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 4.243 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 5.408 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 3.005 ms
+[32minfo[39m: GET /static/js/app.197c78ec06d3c559f9a4.js.map 200 401468 - 3.299 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 2.385 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.328 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.348 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 605.911 ms
+[32minfo[39m: GET /contact-us 200 1251 - 2.707 ms
+[32minfo[39m: GET /static/css/app.84b500092685b8ce491344da0f11e12f.css 304 - - 2.207 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 2.679 ms
+[32minfo[39m: GET /static/js/app.197c78ec06d3c559f9a4.js 304 - - 2.861 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 1.683 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.266 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.278 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.472 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.649 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.273 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.611 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.840 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.455 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.274 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.235 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 304 - - 0.296 ms
+[32minfo[39m: GET /static/js/app.197c78ec06d3c559f9a4.js.map 304 - - 0.254 ms
+[32minfo[39m: GET /static/css/app.84b500092685b8ce491344da0f11e12f.css.map 304 - - 0.300 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.459 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.353 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 631.622 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 27.687 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css 200 52385 - 10.230 ms
+[32minfo[39m: GET /static/js/app.27ed728ed66e32ce4243.js 200 123135 - 6.261 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 6.516 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 1.609 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.438 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css.map 200 358376 - 0.464 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.484 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.797 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.054 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 0.530 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 0.345 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 0.360 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 0.710 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 0.855 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.425 ms
+[32minfo[39m: GET /static/js/app.27ed728ed66e32ce4243.js.map 200 401515 - 0.830 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 0.626 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.478 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.521 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 620.612 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 27.348 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 6.326 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css 200 52385 - 7.367 ms
+[32minfo[39m: GET /static/js/app.96fe029b8a4ace8f1e1a.js 200 123257 - 24.556 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 8.676 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.488 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css.map 200 358376 - 0.730 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.398 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.411 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 0.739 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.004 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 0.917 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 1.188 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 1.297 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.315 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.384 ms
+[32minfo[39m: GET /static/js/app.96fe029b8a4ace8f1e1a.js.map 200 401864 - 1.583 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 6.797 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 2.030 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.466 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 632.971 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 26.867 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 28.184 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css 304 - - 0.330 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.463 ms
+[32minfo[39m: GET /static/js/app.96fe029b8a4ace8f1e1a.js 304 - - 0.566 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.284 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 304 - - 0.227 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.186 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.186 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.184 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.291 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.181 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.294 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.244 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.200 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.226 ms
+[32minfo[39m: GET /static/js/app.96fe029b8a4ace8f1e1a.js.map 304 - - 0.219 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css.map 304 - - 0.187 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 1.982 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.254 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 666.812 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 24.849 ms
+[32minfo[39m: GET /static/js/app.4639d6f0be38c53d9d1a.js 200 123268 - 14.937 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 4.754 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css 200 52385 - 1.764 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 3.114 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.519 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.992 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 2.021 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.265 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 2.391 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 2.213 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 1.724 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.740 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 2.338 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 2.077 ms
+[32minfo[39m: GET /static/js/app.4639d6f0be38c53d9d1a.js.map 200 401878 - 2.093 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 2.274 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css.map 200 358376 - 2.074 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.337 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.330 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 610.241 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 29.997 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 3.875 ms
+[32minfo[39m: GET /static/js/app.4639d6f0be38c53d9d1a.js 304 - - 0.376 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css 304 - - 0.618 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.586 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.235 ms
+[32minfo[39m: GET /static/css/app.91f464a9729bd610fb8a050a7b7b2b86.css.map 304 - - 0.465 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.304 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.742 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 1.192 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.998 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 1.323 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 1.570 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.642 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.792 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.799 ms
+[32minfo[39m: GET /static/js/app.4639d6f0be38c53d9d1a.js.map 304 - - 2.323 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 304 - - 2.523 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 1.667 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.231 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 624.464 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 200 426 - 0.882 ms
+[32minfo[39m: GET /android-chrome-192x192.png 200 1251 - 2.568 ms
+[32minfo[39m: GET /android-chrome-256x256.png 200 1251 - 3.538 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 46.809 ms
+[32minfo[39m: GET /static/css/app.d7a6242976476204eb2eff7d17f41f16.css 200 52385 - 9.364 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 6.600 ms
+[32minfo[39m: GET /static/js/app.4c25dc4a20139bd6e39a.js 200 123263 - 8.256 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 5.577 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 200 426 - 1.076 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 1.419 ms
+[32minfo[39m: GET /static/css/app.d7a6242976476204eb2eff7d17f41f16.css.map 200 358376 - 0.437 ms
+[32minfo[39m: GET /android-chrome-192x192.png 200 1251 - 1.480 ms
+[32minfo[39m: GET /android-chrome-256x256.png 200 1251 - 2.191 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.386 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.410 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 0.593 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 0.834 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 0.992 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 0.475 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 1.115 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.505 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.813 ms
+[32minfo[39m: GET /static/js/app.4c25dc4a20139bd6e39a.js.map 200 401865 - 0.404 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 0.890 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.319 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 1.048 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 614.632 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 26.644 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css 200 52420 - 10.067 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 8.055 ms
+[32minfo[39m: GET /static/js/app.7a0eba208d7f3f5d594c.js 200 123302 - 8.295 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 8.311 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.541 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 200 426 - 0.404 ms
+[32minfo[39m: GET /android-chrome-192x192.png 200 1251 - 2.599 ms
+[32minfo[39m: GET /android-chrome-256x256.png 200 1251 - 3.285 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css.map 200 358495 - 0.706 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.410 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.718 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.248 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 1.079 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.351 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 1.395 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 1.617 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.619 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 0.649 ms
+[32minfo[39m: GET /static/js/app.7a0eba208d7f3f5d594c.js.map 200 402122 - 1.138 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 1.092 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.344 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.482 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 625.510 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 27.860 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 11.423 ms
+[32minfo[39m: GET /static/js/app.d944180f4a3b26567efc.js 200 123172 - 11.277 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css 200 52420 - 5.053 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 5.744 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 200 426 - 0.538 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 1.373 ms
+[32minfo[39m: GET /android-chrome-192x192.png 200 1251 - 1.427 ms
+[32minfo[39m: GET /android-chrome-256x256.png 200 1251 - 2.041 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css.map 200 358495 - 0.318 ms
+[32minfo[39m: GET /static/js/app.d944180f4a3b26567efc.js.map 200 401602 - 0.523 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.999 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 3.068 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 6.326 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 6.168 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 6.309 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 6.707 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 5.176 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 4.961 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 5.270 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 3.616 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.318 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.323 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 600.873 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 29.444 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css 200 52420 - 11.401 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 14.590 ms
+[32minfo[39m: GET /static/js/app.95949ab8bad6d64777ad.js 200 123209 - 14.029 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 10.266 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.725 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 200 426 - 1.056 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 0.431 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.412 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.968 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.680 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 3.049 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 2.696 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 2.808 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 0.822 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.315 ms
+[32minfo[39m: GET /static/js/app.95949ab8bad6d64777ad.js.map 200 401717 - 1.348 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 1.255 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css.map 200 358495 - 0.486 ms
+[32minfo[39m: GET /android-chrome-192x192.png 200 1251 - 1.794 ms
+[32minfo[39m: GET /android-chrome-256x256.png 200 1251 - 2.489 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.561 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.432 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 611.719 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 32.246 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css 200 52420 - 8.399 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 9.263 ms
+[32minfo[39m: GET /static/js/app.6da7b075694661ed0351.js 200 123183 - 8.369 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 9.520 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 0.640 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 200 426 - 0.406 ms
+[32minfo[39m: GET /android-chrome-192x192.png 200 1251 - 1.613 ms
+[32minfo[39m: GET /android-chrome-256x256.png 200 1251 - 2.241 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css.map 200 358495 - 0.479 ms
+[32minfo[39m: GET /static/js/app.6da7b075694661ed0351.js.map 200 401596 - 0.465 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 8.174 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 2.900 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.313 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 0.746 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 0.385 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 0.405 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 1.170 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 0.408 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 1.869 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 0.418 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 0.494 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 0.303 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 628.347 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /contact-us 200 1251 - 51.367 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css 304 - - 18.461 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 18.674 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 18.772 ms
+[32minfo[39m: GET /static/js/app.6da7b075694661ed0351.js 304 - - 18.875 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 304 - - 0.254 ms
+[32minfo[39m: GET /static/css/app.18bc4ee74073bd7268761b2f9e543c35.css.map 304 - - 0.231 ms
+[32minfo[39m: GET /android-chrome-192x192.png 200 1251 - 1.574 ms
+[32minfo[39m: GET /android-chrome-256x256.png 200 1251 - 0.651 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 304 - - 0.372 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 304 - - 0.509 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.188 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.188 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.190 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.409 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.525 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.193 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.234 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.238 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.178 ms
+[32minfo[39m: GET /static/js/app.6da7b075694661ed0351.js.map 304 - - 0.199 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 2.444 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 304 - - 0.440 ms
+[32minfo[39m: Email Sent
+[32minfo[39m: POST /contact-us 200 16 - 692.966 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /sockjs-node/info?t=1548421553862 200 1454 - 125.829 ms
+[32minfo[39m: POST /sockjs-node/674/zokqwi5q/xhr_streaming?t=1548421554008 404 178 - 2.579 ms
+[32minfo[39m: GET /sockjs-node/674/fybgt2zn/eventsource 200 1454 - 2.698 ms
+[32minfo[39m: GET / 200 1454 - 1.533 ms
+[32minfo[39m: GET /static/css/default.css 200 791 - 9.239 ms
+[32minfo[39m: GET /static/css/app.167ce77598cf7f7ed46737bfee209002.css 200 52971 - 10.264 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 9.658 ms
+[32minfo[39m: GET /static/js/app.853102bf49502a479fc7.js 200 128480 - 53.572 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 71.417 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js.map 200 4972 - 1.302 ms
+[32minfo[39m: GET /static/css/app.167ce77598cf7f7ed46737bfee209002.css.map 200 359796 - 6.646 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 2.204 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 200 3606 - 2.047 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 200 4555 - 2.927 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 200 2060 - 1.982 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 200 2541 - 2.735 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 200 2718 - 2.743 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 200 2360 - 3.155 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 2.715 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.655 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 3.053 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 3.189 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 3.366 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 3.304 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 2.708 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 3.689 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/2.jpg 200 146754 - 2.659 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/3.jpg 200 190276 - 2.686 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 200 1141030 - 7.217 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/1.jpg 200 32504 - 2.050 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/2.jpg 200 189049 - 2.763 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 200 145305 - 0.969 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 200 168524 - 0.792 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/3.jpg 200 115073 - 0.985 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/2.jpg 200 121558 - 1.167 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/1.jpg 200 385997 - 1.077 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/1.jpg 200 82444 - 0.820 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 200 1328344 - 2.533 ms
+[32minfo[39m: GET /static/images/main.jpeg 200 3027632 - 7.141 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/2.jpg 200 215723 - 3.659 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js.map 200 1926160 - 1.832 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 200 3752153 - 2.408 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/3.jpg 200 300932 - 2.873 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 200 4436255 - 7.310 ms
+[32minfo[39m: GET /static/news/1.png 200 124200 - 5.358 ms
+[32minfo[39m: GET /static/news/3.jpg 200 36416 - 2.187 ms
+[32minfo[39m: GET /static/news/2.png 200 384542 - 17.547 ms
+[32minfo[39m: GET /static/js/app.853102bf49502a479fc7.js.map 200 432342 - 26.027 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 200 7405933 - 6.988 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 200 445 - 1.105 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 3.052 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 2.477 ms
+[32minfo[39m: GET / 200 1454 - 2.704 ms
+[32minfo[39m: GET /static/css/default.css 200 791 - 2.109 ms
+[32minfo[39m: GET /static/css/app.167ce77598cf7f7ed46737bfee209002.css 200 52971 - 2.371 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 2.258 ms
+[32minfo[39m: GET /static/js/app.853102bf49502a479fc7.js 200 128480 - 2.235 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 2.091 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 0.533 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 200 4555 - 0.805 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 200 3606 - 1.015 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 200 2060 - 0.923 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 200 2541 - 1.239 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 200 2718 - 0.963 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 200 2360 - 0.992 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 0.665 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 1.537 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 2.966 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 1.758 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 3.376 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 2.840 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 3.464 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 2.009 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/1.jpg 200 32504 - 1.365 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/2.jpg 200 189049 - 2.062 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/3.jpg 200 115073 - 3.803 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/1.jpg 200 385997 - 3.300 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/2.jpg 200 146754 - 4.123 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 200 1141030 - 2.050 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/2.jpg 200 121558 - 3.463 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/3.jpg 200 190276 - 4.241 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/1.jpg 200 82444 - 4.927 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(2).jpeg 200 88899 - 14.728 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(3).jpeg 200 131514 - 13.276 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 200 145305 - 4.702 ms
+[32minfo[39m: GET /static/images/main.jpeg 200 3027632 - 3.580 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 200 1328344 - 5.580 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 200 168524 - 4.622 ms
+[32minfo[39m: GET /static/news/1.png 200 124200 - 3.947 ms
+[32minfo[39m: GET /static/news/3.jpg 200 36416 - 2.545 ms
+[32minfo[39m: GET /static/news/2.png 200 384542 - 3.080 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 200 4436255 - 1.689 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 200 3752153 - 5.489 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 200 7405933 - 2.798 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 7.111 ms
+[32minfo[39m: GET /policies/cookie-policy 200 1454 - 4.501 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.535 ms
+[32minfo[39m: GET /static/css/app.167ce77598cf7f7ed46737bfee209002.css 304 - - 0.266 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.343 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.273 ms
+[32minfo[39m: GET /static/js/app.853102bf49502a479fc7.js 304 - - 0.262 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.255 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.276 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.216 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.449 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.837 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.306 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.240 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.335 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.686 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /policies/cookie-policy 200 1454 - 86.066 ms
+[32minfo[39m: GET /static/css/default.css 200 976 - 12.524 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 200 52990 - 9.718 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 12.406 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 200 393642 - 54.499 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 200 128480 - 29.213 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 5.790 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 2.018 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 2.825 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.622 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 3.331 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 3.430 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 2.249 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 3.863 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 2.310 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 3.728 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 1.717 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 1.382 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.228 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 1.747 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 1.387 ms
+[32minfo[39m: GET /static/logo.png 304 - - 1.374 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.268 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.241 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.245 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.224 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.230 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.216 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.234 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.249 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 2.897 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 1.443 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 1.273 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.222 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 2.220 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 1.112 ms
+[32minfo[39m: GET /static/logo.png 304 - - 1.429 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.245 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.196 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.251 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.198 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.238 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.252 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.204 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.197 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 3.956 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 2.662 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 1.466 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.324 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 1.374 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 1.255 ms
+[32minfo[39m: GET /static/logo.png 304 - - 1.370 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.310 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.269 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.259 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.218 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.269 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.248 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.230 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.201 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 6.143 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 2.291 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 1.947 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.616 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 1.287 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 1.271 ms
+[32minfo[39m: GET /static/logo.png 304 - - 1.443 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.276 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.212 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.205 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.189 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.180 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.189 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.218 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.183 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 3.908 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 1.100 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.953 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.537 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 1.889 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.923 ms
+[32minfo[39m: GET /static/logo.png 304 - - 2.553 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.235 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.201 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.197 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.209 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.183 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.176 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.226 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.226 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 3.141 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 1.553 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 1.591 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.686 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 2.036 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 1.337 ms
+[32minfo[39m: GET /static/logo.png 304 - - 1.438 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.278 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.251 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.197 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.182 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.181 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.201 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.687 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.318 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 6.118 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.318 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.265 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.285 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.282 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.269 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.243 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.246 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.201 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.200 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.230 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.212 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.213 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.196 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.208 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.471 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.297 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.214 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.248 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.250 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.285 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.314 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.249 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.192 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.186 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.179 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.167 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.170 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.181 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.184 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.656 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.356 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.295 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.338 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.491 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.332 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.338 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.262 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.315 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.241 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.200 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.195 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.274 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.301 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.245 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.391 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.261 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.233 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.251 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.236 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.278 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.326 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.280 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.221 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.203 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.495 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.359 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.655 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.208 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.239 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 2.160 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 1.074 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.576 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.532 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.569 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.339 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.258 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.290 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.260 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.327 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 1.485 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 1.032 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 1.163 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 1.286 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.243 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.289 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.255 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.189 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.232 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.255 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.258 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.262 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.254 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.190 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.194 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.191 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.276 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.236 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.330 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.479 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 2.410 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.252 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.202 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.200 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.363 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.239 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.475 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 1.253 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.277 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.514 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.439 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.554 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.361 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.545 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.204 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.478 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.314 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.245 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.257 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.251 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.274 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.490 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.284 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.293 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.259 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.232 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.215 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.279 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.278 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.277 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.274 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.247 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.308 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.231 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.210 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.318 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.330 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.337 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.226 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.223 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.229 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.202 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.221 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.197 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.185 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.351 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.280 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.283 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.212 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.235 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.289 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.348 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.258 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.209 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.184 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.189 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.190 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.193 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.187 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.179 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.253 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.254 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.214 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.252 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.246 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.256 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.244 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.267 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.256 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.223 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.220 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.210 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.247 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.242 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.243 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.597 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.242 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.199 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.216 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.259 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.285 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.328 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.293 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.407 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.178 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.264 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.448 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.197 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.220 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.222 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.255 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.265 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.195 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.247 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.317 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.255 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.316 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.273 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.248 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.273 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.222 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.239 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.295 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.328 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.230 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.532 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.294 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.268 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.267 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.304 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.284 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.271 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.257 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.192 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.177 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.187 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.233 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.241 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.297 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.490 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.371 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.261 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.358 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.242 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.294 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.258 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.270 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.334 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.265 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.193 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.187 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.205 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.242 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.218 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.219 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.385 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.269 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.240 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.258 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.310 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.269 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.245 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.283 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.188 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.218 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.234 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.459 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.638 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.765 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.932 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.276 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.298 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.295 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.543 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.519 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.294 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.280 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.262 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.363 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 4.035 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.941 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.863 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 1.000 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 1.152 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 1.298 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 2.665 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.401 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.383 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.405 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.442 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.249 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.238 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.241 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.186 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.221 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.193 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.584 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.856 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 1.025 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 1.240 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.596 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.558 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.547 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.777 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.712 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.495 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.252 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.239 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.225 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.241 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.223 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.274 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.264 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.218 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.222 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.422 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.299 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.230 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.289 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.289 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.325 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.298 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.278 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.241 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.223 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.232 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.192 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.206 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.215 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.229 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.333 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.493 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.407 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.431 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.461 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.267 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.229 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.293 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.238 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.218 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.186 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.173 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.266 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.280 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.208 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.312 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.634 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.463 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.502 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.488 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.300 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.274 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.289 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.235 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.217 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.190 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.178 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.312 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.167 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.226 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.313 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.265 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.241 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.239 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.224 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.254 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.257 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.272 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.221 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.216 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.298 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.187 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.205 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.175 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.292 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 2.189 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.476 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.413 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.460 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.601 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.330 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.239 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.240 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.453 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.188 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.179 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.181 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.171 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.184 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.189 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 1.261 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.241 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.204 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.244 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.245 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.246 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.237 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.245 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.178 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.236 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.194 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.157 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.178 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.180 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.177 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 3.100 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.637 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 2.334 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.635 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.580 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.276 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.247 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.275 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.192 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.176 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.169 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.199 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.239 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.193 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.184 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 2.552 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.468 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.391 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 0.443 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.493 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 0.257 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.234 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 0.315 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 0.295 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.195 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.530 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 0.186 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 0.234 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 0.574 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 0.212 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 6.753 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 0.900 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 0.910 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.629 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 0.893 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 1.125 ms
+[32minfo[39m: GET /static/logo.png 304 - - 0.737 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 1.717 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 1.810 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 1.659 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 0.862 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 1.366 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 4.291 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 1.926 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 2.378 ms
+[32minfo[39m: GET /policies/cookie-policy 304 - - 3.240 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 1.439 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 1.992 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.231 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 1.278 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 1.486 ms
+[32minfo[39m: GET /static/logo.png 304 - - 1.414 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 1.473 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 1.256 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 0.975 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 1.095 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 1.189 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 1.186 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 1.323 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 1.716 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 3.455 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 200 4555 - 4.167 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 200 3606 - 4.807 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 200 2060 - 3.811 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 200 2541 - 3.788 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 200 2718 - 3.591 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 200 2360 - 7.519 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/2.jpg 200 121558 - 2.698 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/1.jpg 200 82444 - 2.854 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 200 145305 - 2.668 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 200 168524 - 4.087 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/2.jpg 200 215723 - 4.416 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/3.jpg 200 300932 - 3.080 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/2.jpg 200 189049 - 4.344 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/1.jpg 200 32504 - 3.761 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/3.jpg 200 115073 - 5.071 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/2.jpg 200 146754 - 5.136 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 200 1141030 - 3.948 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/1.jpg 200 385997 - 4.859 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/3.jpg 200 190276 - 4.059 ms
+[32minfo[39m: GET /static/news/1.png 200 124200 - 5.710 ms
+[32minfo[39m: GET /static/images/main.jpeg 200 3027632 - 3.561 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 200 1328344 - 5.883 ms
+[32minfo[39m: GET /static/news/3.jpg 200 36416 - 4.186 ms
+[32minfo[39m: GET /static/news/2.png 200 384542 - 5.170 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 200 4436255 - 4.689 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 200 3752153 - 6.238 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 200 7405933 - 5.971 ms
+[32minfo[39m: GET / 200 1454 - 4.129 ms
+[32minfo[39m: GET /static/css/default.css 304 - - 1.438 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 304 - - 1.265 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 304 - - 1.137 ms
+[32minfo[39m: GET /static/js/vendor.ececafcc601d85f7a6c9.js 304 - - 1.165 ms
+[32minfo[39m: GET /static/js/app.91ce08fbfc5bf7ab881a.js 304 - - 1.455 ms
+[32minfo[39m: GET /static/logo_white.png 304 - - 1.416 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 304 - - 1.250 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 304 - - 1.097 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 304 - - 1.987 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 304 - - 2.285 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 304 - - 2.358 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 304 - - 1.893 ms
+[32minfo[39m: GET /static/accreditations/chas.png 304 - - 2.691 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 304 - - 2.492 ms
+[32minfo[39m: GET /static/accreditations/doff.png 304 - - 2.129 ms
+[32minfo[39m: GET /static/accreditations/torc.png 304 - - 1.968 ms
+[32minfo[39m: GET /static/accreditations/firas.png 304 - - 1.763 ms
+[32minfo[39m: GET /static/accreditations/icats.png 304 - - 1.091 ms
+[32minfo[39m: GET /static/accreditations/nace.png 304 - - 2.114 ms
+[32minfo[39m: GET /static/accreditations/safe.png 304 - - 2.077 ms
+[32minfo[39m: GET /static/images/main.jpeg 304 - - 1.255 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 304 - - 1.553 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 304 - - 1.665 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 304 - - 1.464 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/2.jpg 304 - - 1.281 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/3.jpg 304 - - 0.952 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/3.jpg 304 - - 1.190 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/1.jpg 304 - - 1.775 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 304 - - 1.956 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 304 - - 2.270 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 304 - - 2.286 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/2.jpg 304 - - 2.379 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 304 - - 2.869 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/1.jpg 304 - - 3.184 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/2.jpg 304 - - 1.840 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/1.jpg 304 - - 1.243 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/2.jpg 304 - - 1.380 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/3.jpg 304 - - 1.144 ms
+[32minfo[39m: GET /static/news/1.png 304 - - 1.277 ms
+[32minfo[39m: GET /static/news/2.png 304 - - 1.400 ms
+[32minfo[39m: GET /static/news/3.jpg 304 - - 0.919 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET / 200 1568 - 59.906 ms
+[32minfo[39m: GET /static/css/default.css 200 976 - 9.706 ms
+[32minfo[39m: GET /static/css/app.dcd538a946221e09fa4fca28a6e18b1b.css 200 52990 - 11.200 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 857 - 13.300 ms
+[32minfo[39m: GET /static/js/app.6c504293eb9d7eb62d4b.js 200 129876 - 41.502 ms
+[32minfo[39m: GET /static/js/vendor.304537f1cbed39042964.js 200 405150 - 56.215 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 200 145305 - 4.227 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 200 168524 - 4.571 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 200 1141030 - 1.952 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/3.jpg 200 115073 - 0.952 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/1.jpg 200 385997 - 1.247 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 200 1328344 - 1.295 ms
+[32minfo[39m: GET /static/images/main.jpeg 200 3027632 - 1.093 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 7.868 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/2.jpg 200 121558 - 1.524 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 200 3752153 - 1.841 ms
+[32minfo[39m: GET /static/Case%20Studies/Maplin/1.jpg 200 82444 - 2.782 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/2.jpg 200 189049 - 2.501 ms
+[32minfo[39m: GET /static/Case%20Studies/Harveys/1.jpg 200 32504 - 1.037 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 200 4436255 - 3.728 ms
+[32minfo[39m: GET /static/Case%20Studies/Minster%20court/2.jpg 200 213621 - 1.389 ms
+[32minfo[39m: GET /static/Case%20Studies/Minster%20court/3.jpg 200 163487 - 1.019 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/2.jpg 200 146754 - 1.359 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/3.jpg 200 190276 - 1.599 ms
+[32minfo[39m: GET /static/news/1.png 200 124200 - 3.313 ms
+[32minfo[39m: GET /static/news/3.jpg 200 36416 - 0.938 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 200 4555 - 3.611 ms
+[32minfo[39m: GET /static/news/2.png 200 384542 - 2.861 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 200 3606 - 3.821 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 200 2060 - 3.388 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 200 2541 - 3.544 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 200 2718 - 4.443 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 200 2360 - 8.464 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 9.041 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 9.894 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 3.447 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 4.315 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 3.487 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 2.740 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 2.330 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 2.220 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 200 7405933 - 3.051 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 200 445 - 0.871 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 1.679 ms
+[32minfo[39m: GET /static/favicons/favicon-16x16.png 200 1589 - 2.122 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 2.213 ms
+[32minfo[39m: GET /static/images/about.jpg 200 566548 - 1.972 ms
+[32minfo[39m: GET /static/about/growth.jpeg 200 1384529 - 1.774 ms
+[32minfo[39m: GET /static/about/excellence.jpeg 200 3960754 - 2.662 ms
+[32minfo[39m: GET /static/about/begining.jpeg 200 6808028 - 1.924 ms
+[32minfo[39m: GET /static/about/future.jpeg 200 6698945 - 2.664 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/1.jpg 200 89442 - 7.305 ms
+[32minfo[39m: GET /static/Case%20Studies/sainsburys/1.jpg 200 105395 - 8.067 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(1).jpeg 200 179464 - 7.766 ms
+[32minfo[39m: GET /static/Case%20Studies/Minster%20court/1.jpg 200 162066 - 10.477 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/1.jpg 200 41714 - 18.299 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/1.jpg 200 594475 - 19.670 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/2.jpg 200 139489 - 8.065 ms
+[32minfo[39m: GET /news/ 200 1568 - 1.905 ms
+[32minfo[39m: GET /static/news/4-2.jpg 200 200171 - 6.181 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(2).jpeg 200 88899 - 7.332 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(3).jpeg 200 131514 - 6.988 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/2.jpg 200 215723 - 7.685 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/3.jpg 200 300932 - 6.743 ms
+[32minfo[39m: Initialising
+[32minfo[39m: Defaults completed
+[32minfo[39m: routing to *
+[32minfo[39m: server is listening on 3000
+[32minfo[39m: GET /__webpack_hmr/client 200 1568 - 32.754 ms
+[32minfo[39m: GET / 200 1568 - 3.865 ms
+[32minfo[39m: GET /static/css/default.css 200 976 - 3.722 ms
+[32minfo[39m: GET /static/css/app.41a83deb951c48c3850dc1ff4a510428.css 200 52996 - 4.916 ms
+[32minfo[39m: GET /static/js/manifest.2ae2e69a05c33dfc65f8.js 200 858 - 8.301 ms
+[32minfo[39m: GET /static/js/app.ec003a9b64be2773f8bd.js 200 129877 - 40.436 ms
+[32minfo[39m: GET /static/js/vendor.304537f1cbed39042964.js 200 405303 - 95.836 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/2.jpg 200 215723 - 12.128 ms
+[32minfo[39m: GET /static/Case%20Studies/royalmail/3.jpg 200 300932 - 9.699 ms
+[32minfo[39m: GET /static/images/repairs.jpeg 200 1141030 - 5.936 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/3.jpg 200 115073 - 8.454 ms
+[32minfo[39m: GET /static/Case%20Studies/Battery%20Retail%20Park/1.jpg 200 385997 - 7.237 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/3.jpg 200 145305 - 3.800 ms
+[32minfo[39m: GET /static/Case%20Studies/projectlight/2.jpg 200 168524 - 4.232 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/2.jpg 200 146754 - 4.230 ms
+[32minfo[39m: GET /static/Case%20Studies/royalarsenallondon/3.jpg 200 190276 - 6.636 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(2).jpeg 200 88899 - 4.146 ms
+[32minfo[39m: GET /static/Case%20Studies/Soltvadkert/Material%20Plastik%20-%20Finished%20Photos%20(3).jpeg 200 131514 - 4.064 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/1.jpg 200 1328344 - 7.834 ms
+[32minfo[39m: GET /static/images/main.jpeg 200 3027632 - 5.837 ms
+[32minfo[39m: GET /static/logo_white.png 200 71873 - 1.508 ms
+[32minfo[39m: GET /static/Case%20Studies/Minster%20court/2.jpg 200 213621 - 4.606 ms
+[32minfo[39m: GET /static/Case%20Studies/Minster%20court/3.jpg 200 163487 - 3.072 ms
+[32minfo[39m: GET /static/Case%20Studies/Comet/2.jpg 200 3752153 - 3.075 ms
+[32minfo[39m: GET /static/images/industrial.jpeg 200 4436255 - 5.789 ms
+[32minfo[39m: GET /static/news/1.png 200 124200 - 1.689 ms
+[32minfo[39m: GET /static/news/2.png 200 384542 - 1.099 ms
+[32minfo[39m: GET /static/news/3.jpg 200 36416 - 3.803 ms
+[32minfo[39m: GET /static/images/icons/repairs.png 200 4555 - 3.986 ms
+[32minfo[39m: GET /static/images/icons/repairswhite.png 200 3606 - 1.020 ms
+[32minfo[39m: GET /static/images/icons/industrial.png 200 2060 - 1.977 ms
+[32minfo[39m: GET /static/images/icons/industrialwhite.png 200 2541 - 1.416 ms
+[32minfo[39m: GET /static/images/icons/refurbishment.png 200 2718 - 1.759 ms
+[32minfo[39m: GET /static/images/icons/refurbishwhite.png 200 2360 - 2.446 ms
+[32minfo[39m: GET /static/accreditations/chas.png 200 19170 - 2.326 ms
+[32minfo[39m: GET /static/accreditations/constructionline.png 200 13187 - 2.200 ms
+[32minfo[39m: GET /static/accreditations/doff.png 200 14751 - 2.775 ms
+[32minfo[39m: GET /static/accreditations/torc.png 200 13806 - 1.402 ms
+[32minfo[39m: GET /static/accreditations/firas.png 200 14501 - 1.297 ms
+[32minfo[39m: GET /static/accreditations/icats.png 200 37451 - 1.389 ms
+[32minfo[39m: GET /static/accreditations/safe.png 200 15316 - 1.447 ms
+[32minfo[39m: GET /static/accreditations/nace.png 200 20238 - 1.744 ms
+[32minfo[39m: GET /static/images/refurbishment2.jpeg 200 7405933 - 5.593 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 200 3152 - 1.246 ms
+[32minfo[39m: GET /static/favicons/site.webmanifest 200 445 - 3.817 ms
+[32minfo[39m: GET /static/favicons/favicon-32x32.png 304 - - 1.092 ms
+[32minfo[39m: GET /static/logo.png 200 136419 - 2.025 ms
+[32minfo[39m: GET /news/ 200 1568 - 4.051 ms
+[32minfo[39m: GET /static/news/4-2.jpg 200 200171 - 5.192 ms
